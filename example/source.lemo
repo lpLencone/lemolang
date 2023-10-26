@@ -1,0 +1,10 @@
+push 3 // 3
+push 5 // 3 5
+duplicate // 3 5 5
+dump // 3 5
+add // 8
+lshift // 16
+duplicate // 16 16
+dump // 16
+rshift // 8
+dump // 
